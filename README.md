@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Certifications)</b>
-  - [CompTia. A+](https://github.com)</b>
-  - [CompTiaSecurity+](https://github.com)</b>
+  - [CompTia A+](https://github.com)</b>
+  - [CompTia Security+](https://github.com)</b>
 
 - <b>Home network security</b>
   - [Router, firewall, IOT, PCs, Laptops and Sec.Cameras](https://github.com
