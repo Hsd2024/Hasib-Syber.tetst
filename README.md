@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Home network security</b>
-  - [Router, firewall, IOT, PCs, Laptops and Sec.Cameras](https://github.com
 - <b>Certifications)</b>
   - [CompTia. A+](https://github.com)</b>
   - [CompTiaSecurity+](https://github.com)</b>
 
+- <b>Home network security</b>
+  - [Router, firewall, IOT, PCs, Laptops and Sec.Cameras](https://github.com
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
